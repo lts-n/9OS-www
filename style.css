@@ -132,6 +132,14 @@ section p,
     line-height: 1.6;
 }
 
+.hero-subtitle {
+    margin-top: 0;
+    font-size: 1.17em;
+    font-weight: 600;
+    color: #dff3ff;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
 button,
 .btn {
     position: relative;
